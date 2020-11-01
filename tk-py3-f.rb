@@ -1,4 +1,4 @@
-class PythonAT39 < Formula
+class TkPy3F < Formula
     desc "Interpreted, interactive, object-oriented programming language"
     homepage "https://www.python.org/"
     url "https://www.python.org/ftp/python/3.9.0/Python-3.9.0.tar.xz"
